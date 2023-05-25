@@ -1,0 +1,17 @@
+{
+  "name": "ledger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "any.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ledgerhq/hw-transport": "^6.28.2",
+    "@ledgerhq/hw-transport-node-hid": "^6.27.13",
+    "@mysten/ledgerjs-hw-app-sui": "^0.1.0"
+  }
+}
